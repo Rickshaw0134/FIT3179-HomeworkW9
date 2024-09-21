@@ -1,14 +1,17 @@
-﻿State,Date,Sex,Age,Ethnicity,Population,Population_absolute
-Johor,01/01/2023,both,overall,overall,4107.2,4107200
-Kedah,01/01/2023,both,overall,overall,2189.3,2189300
-Kelantan,01/01/2023,both,overall,overall,1859.8,1859800
-Melaka,01/01/2023,both,overall,overall,1028.3,1028300
-Negeri Sembilan,01/01/2023,both,overall,overall,1224.9,1224900
-Pahang,01/01/2023,both,overall,overall,1643.2,1643200
-Perak,01/01/2023,both,overall,overall,2541.2,2541200
-Perlis,01/01/2023,both,overall,overall,293.1,293100
-Pulau Pinang,01/01/2023,both,overall,overall,1772.6,1772600
-Sabah,01/01/2023,both,overall,overall,3596.7,3695700
-Sarawak,01/01/2023,both,overall,overall,2502.3,2502300
-Selangor,01/01/2023,both,overall,overall,7209.7,9334200
-Terengganu,01/01/2023,both,overall,overall,1210,1210000
+﻿State,Date,Sex,Age,Ethnicity,Population,Population_absolute,Area
+Johor,01/01/2023,both,overall,overall,4107.2,4107200,19210
+Kedah,01/01/2023,both,overall,overall,2189.3,2189300,9500
+Kelantan,01/01/2023,both,overall,overall,1859.8,1859800,15099
+Melaka,01/01/2023,both,overall,overall,1028.3,1028300,1664
+Negeri Sembilan,01/01/2023,both,overall,overall,1224.9,1224900,6686
+Pahang,01/01/2023,both,overall,overall,1643.2,1643200,36137
+Perak,01/01/2023,both,overall,overall,2541.2,2541200,21035
+Perlis,01/01/2023,both,overall,overall,293.1,293100,821
+Pulau Pinang,01/01/2023,both,overall,overall,1772.6,1772600,1048
+Sabah,01/01/2023,both,overall,overall,3596.7,3596700,73631
+Sarawak,01/01/2023,both,overall,overall,2502.3,2502300,124450
+Selangor,01/01/2023,both,overall,overall,7209.7,7209700,8104
+Terengganu,01/01/2023,both,overall,overall,1210,1210000,13035
+Kuala Lumpur,01/01/2023,both,overall,overall,2005700,243
+Labuan,01/01/2023,both,overall,overall,99000,91
+Putrajaya,01/01/2023,both,overall,overall,118800,49
